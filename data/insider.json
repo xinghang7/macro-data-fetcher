@@ -1,0 +1,16 @@
+<view class="container">
+  <block wx:for="{{insiderList}}" wx:key="symbol">
+    <view class="card">
+      <view class="header">
+        <text class="symbol">{{item.symbol}}</text>
+        <text class="{{item.action == 'Buy' ? 'text-green' : 'text-red'}}">{{item.action}}</text>
+      </view>
+      <view class="info">
+        <text>姓名: {{item.name}} ({{item.title}})</text>
+        <text>金额: ${{item.totalValue}}</text>
+        <text>日期: {{item.date}}</text>
+        <text>历史次数: {{item.historyCount}}</text>
+      </view>
+    </view>
+  </block>
+</view>
