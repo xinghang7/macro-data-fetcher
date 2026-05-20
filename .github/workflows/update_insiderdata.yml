@@ -1,0 +1,28 @@
+name: Update Insider Data
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天凌晨运行一次
+  workflow_dispatch: # 允许你手动点击运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 给权限，这样机器人才能自动修改你的 JSON 文件
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install pandas requests
+      - name: Run Scraper
+        run: python insider_scraper.py
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/insider.json
+          git commit -m "Update insider data automatically" || exit 0
+          git push
