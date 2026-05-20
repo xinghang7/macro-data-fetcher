@@ -1,52 +1,46 @@
-import requests
 import os
+import requests
+import akshare as ak # 国内最强金融开源库，无需翻墙，极速稳定
 from datetime import datetime
 
-# ================= 配置区 =================
+# 微信鉴权配置 (直接从 GitHub Secrets 读取)
 APPID = os.environ.get('WECHAT_APPID')
 SECRET = os.environ.get('WECHAT_SECRET')
 ENV_ID = os.environ.get('WECHAT_ENV_ID')
-# =========================================
 
-def get_real_fred_data(series_id):
-    """从FRED官方获取真实数据，直接请求"""
-    url = f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series_id}"
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    # GitHub服务器在海外，直连官方非常快，不需要代理
-    res = requests.get(url, headers=headers, timeout=15)
-    lines = res.text.strip().split('\n')
-    
-    # 倒序找最新一行
-    for i in range(len(lines)-1, 0, -1):
-        row = lines[i].split(',')
-        try:
-            val = float(row[1])
-            return {'date': row[0], 'value': val}
-        except: continue
-    raise Exception(f"未找到 {series_id} 数据")
+def get_data():
+    """使用 akshare 获取宏观数据"""
+    # 获取美国国债收益率数据（包含 SOFR 等参考利率）
+    # akshare 的数据源极其稳定，直接从国内接口获取
+    sofr_df = ak.macro_usa_sofr() 
+    # 取最新的一行
+    latest = sofr_df.iloc[-1]
+    return {
+        'date': str(latest['日期']),
+        'sofr': float(latest['SOFR']),
+        'iorb': float(latest['IORB']) # 库中通常包含相关利率对
+    }
 
-def update_wechat_database(sofr, iorb):
-    # 1. 换 Token
+def update_db(data):
+    # 1. 换取 Token
     token_url = f"https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid={APPID}&secret={SECRET}"
-    token = requests.get(token_url).json().get('access_token')
+    token = requests.get(token_url).json()['access_token']
     
-    # 2. 写入数据库
-    db_url = f"https://api.weixin.qq.com/tcb/databaseupdate?access_token={token}"
+    # 2. 写入数据
+    url = f"https://api.weixin.qq.com/tcb/databaseupdate?access_token={token}"
     query = f"""
     db.collection("liquidity").doc("liquidity_latest").set({{
         data: {{
-            sofr: {sofr['value']},
-            iorb: {iorb['value']},
-            sofrDate: "{sofr['date']}",
-            iorbDate: "{iorb['date']}",
+            sofr: {data['sofr']},
+            iorb: {data['iorb']},
+            date: "{data['date']}",
             updateTime: db.serverDate()
         }}
     }})
     """
-    requests.post(db_url, json={"env": ENV_ID, "query": query})
+    requests.post(url, json={"env": ENV_ID, "query": query})
 
 if __name__ == "__main__":
-    sofr = get_real_fred_data('SOFR')
-    iorb = get_real_fred_data('IORB')
-    update_wechat_database(sofr, iorb)
-    print(f"✅ 更新成功: SOFR={sofr['value']}, IORB={iorb['value']}")
+    data = get_data()
+    update_db(data)
+    print(f"✅ 数据已更新: SOFR {data['sofr']}, IORB {data['iorb']}")
