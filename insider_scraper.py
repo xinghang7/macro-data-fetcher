@@ -1,42 +1,39 @@
-import pandas as pd
+import requests
 import json
 import os
-import requests
-from io import StringIO
+import xml.etree.ElementTree as ET
 
-# 1. 设置伪装请求头，模拟真实浏览器访问
-url = "http://openinsider.com/feed/?q=1"
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
-}
+def get_full_data():
+    # 扩展 SEC RSS 获取范围 (合并多种申报)
+    url = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=&company=&dateb=&owner=include&count=40&output=atom"
+    headers = {"User-Agent": "Mozilla/5.0 (MyInsiderMonitor/1.0; xinghang7@gmail.com)"}
+    
+    response = requests.get(url, headers=headers)
+    root = ET.fromstring(response.content)
+    result = []
 
-# 2. 发起请求并读取 CSV
-response = requests.get(url, headers=headers)
-if response.status_code == 200:
-    df = pd.read_csv(StringIO(response.text))
-else:
-    print(f"请求失败，状态码: {response.status_code}")
-    exit(1) # 如果下载失败，直接停止运行
+    # 监控的目标表单
+    targets = ['Form 3', 'Form 4', 'SC 13D', 'SC 13G']
 
-# 3. 筛选重要交易 (CEO/CFO, 金额 > 50万)
-data = df[(df['Officer Title'].str.contains('CEO|CFO', na=False)) & 
-          (df['Value ($)'] > 500000)].copy()
+    for entry in root.findall('.//{http://www.w3.org/2005/Atom}entry'):
+        title = entry.find('{http://www.w3.org/2005/Atom}title').text
+        if any(t in title for t in targets):
+            # 简化提取流程，先确保我们拿到了所有这些类型的记录
+            result.append({
+                "symbol": title.split('(')[-1].replace(')', ''), # 尝试从标题提取代号
+                "name": title.split(' - ')[0],
+                "title": "Insider/Major Shareholder",
+                "action": "Disclosure",
+                "totalValue": 0, # 此处为占位，后续可深入解析 XML
+                "date": entry.find('{http://www.w3.org/2005/Atom}updated').text,
+                "historyCount": 1
+            })
 
-# 4. 整理格式
-result = []
-for _, row in data.iterrows():
-    result.append({
-        "symbol": row['Ticker'],
-        "name": row['Reporter Name'],
-        "title": row['Officer Title'],
-        "action": 'Buy' if 'Purchase' in row['Transaction Type'] else 'Sell',
-        "totalValue": row['Value ($)'],
-        "date": row['Filing Date'],
-        "historyCount": 1
-    })
+    # 保存文件
+    if not os.path.exists('data'):
+        os.makedirs('data')
+    with open('data/insider.json', 'w') as f:
+        json.dump(result, f, indent=2)
 
-# 5. 保存到 GitHub 仓库内的文件
-if not os.path.exists('data'):
-    os.makedirs('data')
-with open('data/insider.json', 'w') as f:
-    json.dump(result, f, indent=2)
+if __name__ == "__main__":
+    get_full_data()
