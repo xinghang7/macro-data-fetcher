@@ -1,0 +1,31 @@
+name: Daily Liquidity Update
+
+on:
+  schedule:
+    # 每天 UTC 时间 0点（北京时间早上 8点）自动运行
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 这个配置允许你在网页上手动点击运行测试
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+
+      - name: 配置 Python 环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 运行抓取脚本
+        env:
+          # 从刚才的保险箱里读取钥匙
+          WECHAT_APPID: ${{ secrets.WECHAT_APPID }}
+          WECHAT_SECRET: ${{ secrets.WECHAT_SECRET }}
+          WECHAT_ENV_ID: ${{ secrets.WECHAT_ENV_ID }}
+        run: python updateLiquidity.py  # 这里的名字完美匹配你刚上传的文件
