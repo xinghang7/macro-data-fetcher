@@ -1,7 +1,7 @@
 name: Update Insider Data
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天凌晨运行一次
+    - cron: '0 */12 * * *' # 这里的 */12 代表每隔 12 小时运行一次
   workflow_dispatch: # 允许你手动点击运行
 
 jobs:
