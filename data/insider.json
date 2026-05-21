@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "symbol": "SEC",
+    "name": "4 - Del Guercio Stephen A (0001561350) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:19:13-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - CVB FINANCIAL CORP (0000354647) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:19:13-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Elmy Frederick J. (0001947245) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:17:38-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - RBC Bearings INC (0001324948) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:17:38-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4/A - Borgstrom Marna P (0001744267) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:15:13-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4/A - ARTIVION, INC. (0000784199) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:15:13-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "SCHEDULE 13D/A - Wilson Dennis J. (0001407029) (Filed by)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:15:02-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "SCHEDULE 13D/A - lululemon athletica inc. (0001397187) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:15:02-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - Venturo Brian M (0002058067) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:14:17-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - CoreWeave, Inc. (0001769628) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:14:17-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - McVeety Kristen J (0002058048) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:13:20-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - CoreWeave, Inc. (0001769628) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:13:20-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - McBee Brannin (0002058103) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:10:57-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - CoreWeave, Inc. (0001769628) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:10:57-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Navios Maritime Partners L.P. (0001415921) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:10:03-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Frangou Angeliki (0001310495) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:10:03-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Carlsen Elyse (0002013950) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:09:27-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - REPUBLIC SERVICES, INC. (0001060391) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:09:27-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - Jain Sachin (0002124855) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:08:58-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - CoreWeave, Inc. (0001769628) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:08:58-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - Intrator Michael N (0002058037) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:05:45-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - CoreWeave, Inc. (0001769628) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:05:45-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - Goldberg Chen (0002058056) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:03:30-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - CoreWeave, Inc. (0001769628) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:03:30-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Zhang Ping (0002050176) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:03:16-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - GYRE THERAPEUTICS, INC. (0001124105) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:03:16-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Rosenthal Michael Stuart (0001832050) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:03:05-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - MP Materials Corp. / DE (0001801368) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:03:05-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Delek US Holdings, Inc. (0001694426) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:02:44-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Spiegel Reuven (0001615515) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:02:44-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Tolson Laurie Z. (0001842286) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:01:57-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Delek US Holdings, Inc. (0001694426) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:01:57-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - Agrawal Nitin (0002058038) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:01:03-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - CoreWeave, Inc. (0001769628) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:01:03-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Borba George A Jr (0001562449) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:00:03-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - CVB FINANCIAL CORP (0000354647) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T21:00:03-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Puri Anil K. (0001456777) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T20:58:40-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Crexendo, Inc. (0001075736) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T20:58:40-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Venturo Brian M (0002058067) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T20:55:03-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - CoreWeave, Inc. (0001769628) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-20T20:55:03-04:00",
+    "historyCount": 1
+  }
+]
