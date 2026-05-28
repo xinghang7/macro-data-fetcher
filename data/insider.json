@@ -1,182 +1,56 @@
 [
   {
     "symbol": "SEC",
-    "name": "10-D - Benchmark 2026-V21 Mortgage Trust (0002109998) (Filer)",
+    "name": "8-K - STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6 (0001343491) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:38:02-04:00",
+    "date": "2026-05-28T08:50:13-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "144 - PUJARI ROSHEN (0002028136) (Reporting)",
+    "name": "4 - CHERRY THOMAS F (0001200512) (Reporting)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:37:54-04:00",
+    "date": "2026-05-28T08:50:01-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "144 - Stardust Power Inc. (0001831979) (Subject)",
+    "name": "4 - C & F FINANCIAL CORP (0000913341) (Issuer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:37:54-04:00",
+    "date": "2026-05-28T08:50:01-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B5 - PRINCIPAL FINANCIAL GROUP INC (0001126328) (Filer)",
+    "name": "6-K - NewGenIvf Group Ltd (0001981662) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:37:37-04:00",
+    "date": "2026-05-28T08:49:43-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B5 - PRINCIPAL FINANCIAL SERVICES INC (0001094589) (Filer)",
+    "name": "ABS-EE - Exeter Automobile Receivables Trust 2026-1 (0002101848) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:37:37-04:00",
+    "date": "2026-05-28T08:49:34-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "8-K - NEXTNAV INC. (0001865631) (Filer)",
+    "name": "424B7 - Ondas Inc. (0001646188) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:37:35-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "424B2 - CITIGROUP INC (0000831001) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:37:09-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "424B2 - Citigroup Global Markets Holdings Inc. (0000200245) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:37:09-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "ABS-EE - Benchmark 2026-V21 Mortgage Trust (0002109998) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:36:03-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "N-CSRS - Thrivent ETF Trust (0001896670) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:35:40-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - DigitalBridge Group, Inc. (0001679688) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:35:33-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - ROLLINS INC (0000084839) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:35:14-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "10-D - Benchmark 2022-B33 Mortgage Trust (0001907059) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:34:02-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - Hoth Therapeutics, Inc. (0001711786) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:33:47-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "ABS-EE - Benchmark 2022-B33 Mortgage Trust (0001907059) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:32:02-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - La Rosa Holdings Corp. (0001879403) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:30:26-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - ASPAC III Acquisition Corp. (0001890361) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:30:16-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - bioAffinity Technologies, Inc. (0001712762) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:30:16-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "6-K - QUHUO Ltd (0001781193) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:30:01-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "10-K - MONRO, INC. (0000876427) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-05-27T08:29:55-04:00",
+    "date": "2026-05-28T08:48:54-04:00",
     "historyCount": 1
   },
   {
@@ -185,7 +59,7 @@
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:29:48-04:00",
+    "date": "2026-05-28T08:48:51-04:00",
     "historyCount": 1
   },
   {
@@ -194,43 +68,88 @@
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:29:48-04:00",
+    "date": "2026-05-28T08:48:51-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "10-D - Benchmark 2025-V18 Mortgage Trust (0002089470) (Filer)",
+    "name": "N-CSRS - MFS SERIES TRUST XI (0000911637) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:28:59-04:00",
+    "date": "2026-05-28T08:48:37-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "SCHEDULE 13G - Nayax Ltd. (0001901279) (Subject)",
+    "name": "N-CSRS - MFS SERIES TRUST V (0000200489) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:28:22-04:00",
+    "date": "2026-05-28T08:48:33-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "SCHEDULE 13G - Phoenix Financial Ltd. (0001679543) (Filed by)",
+    "name": "424B2 - BofA Finance LLC (0001682472) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:28:22-04:00",
+    "date": "2026-05-28T08:48:11-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B5 - NATIONAL FUEL GAS CO (0000070145) (Filer)",
+    "name": "424B2 - BANK OF AMERICA CORP /DE/ (0000070858) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:27:56-04:00",
+    "date": "2026-05-28T08:48:11-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B3 - JPMorgan Chase Financial Co. LLC (0001665650) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:47:59-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B3 - JPMORGAN CHASE & CO (0000019617) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:47:59-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "485BXT - Themes ETF Trust (0001976322) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:47:58-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "485BXT - Themes ETF Trust (0001976322) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:47:58-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "6-K - ALMADEN MINERALS LTD (0001015647) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:47:40-04:00",
     "historyCount": 1
   },
   {
@@ -239,7 +158,7 @@
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:27:37-04:00",
+    "date": "2026-05-28T08:47:20-04:00",
     "historyCount": 1
   },
   {
@@ -248,115 +167,196 @@
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:27:37-04:00",
+    "date": "2026-05-28T08:47:20-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "ABS-EE - Benchmark 2025-V18 Mortgage Trust (0002089470) (Filer)",
+    "name": "F-6 POS - POMDOCTOR Ltd (0001877971) (Subject)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:26:59-04:00",
+    "date": "2026-05-28T08:46:37-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "6-K - Curaleaf Holdings, Inc. (0001756770) (Filer)",
+    "name": "F-6 POS - Citibank,N.A./ADR (0001472033) (Filed by)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:26:50-04:00",
+    "date": "2026-05-28T08:46:37-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "8-K - Cheniere Energy, Inc. (0000003570) (Filer)",
+    "name": "424B2 - JPMorgan Chase Financial Co. LLC (0001665650) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:26:44-04:00",
+    "date": "2026-05-28T08:45:56-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - BANK OF NOVA SCOTIA (0000009631) (Filer)",
+    "name": "424B2 - JPMORGAN CHASE & CO (0000019617) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:26:17-04:00",
+    "date": "2026-05-28T08:45:56-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "6-K - Paysafe Ltd (0001833835) (Filer)",
+    "name": "ABS-EE - Exeter Automobile Receivables Trust 2026-2 (0002114382) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:25:39-04:00",
+    "date": "2026-05-28T08:45:30-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "8-K - Eva Live Inc (0001983736) (Filer)",
+    "name": "8-K - Eightco Holdings Inc. (0001892492) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:20:26-04:00",
+    "date": "2026-05-28T08:45:23-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "D - Alpha-SA-0402 Fund I, a series of Platform Funds 2026, LP (0002128868) (Filer)",
+    "name": "DEFA14A - SHF Holdings, Inc. (0001854963) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:18:55-04:00",
+    "date": "2026-05-28T08:45:08-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "6-K - Yiren Digital Ltd. (0001631761) (Filer)",
+    "name": "424B2 - BANK OF MONTREAL /CAN/ (0000927971) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:18:27-04:00",
+    "date": "2026-05-28T08:45:03-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "D - SA-0408 Fund I, a series of MV Funds, LP (0002131633) (Filer)",
+    "name": "425 - newcleo Ltd. (0002131813) (Filed by)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:18:17-04:00",
+    "date": "2026-05-28T08:44:58-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "D - PA-0413 Fund I, a series of Roll Up Vehicles, LP (0002131164) (Filer)",
+    "name": "425 - NewHold Investment Corp. III (0002043699) (Subject)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:15:45-04:00",
+    "date": "2026-05-28T08:44:58-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "8-K - BNB PLUS CORP. (0000744452) (Filer)",
+    "name": "425 - newcleo Ltd. (0002131813) (Filed by)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:15:32-04:00",
+    "date": "2026-05-28T08:44:42-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "8-A12B - AMERICAN TOWER CORP /MA/ (0001053507) (Filer)",
+    "name": "425 - NewHold Investment Corp. III (0002043699) (Subject)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-05-27T08:13:43-04:00",
+    "date": "2026-05-28T08:44:42-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B2 - JPMorgan Chase Financial Co. LLC (0001665650) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:44:33-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "N-CSR - MFS MUNICIPAL SERIES TRUST (0000751656) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:44:33-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B2 - JPMORGAN CHASE & CO (0000019617) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:44:33-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B2 - BofA Finance LLC (0001682472) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:43:38-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B2 - BANK OF AMERICA CORP /DE/ (0000070858) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:43:38-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B2 - JPMorgan Chase Financial Co. LLC (0001665650) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:43:02-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Kimball Electronics, Inc. (0001606757) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:43:02-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Phillips Richard D (0001568163) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:43:02-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B2 - JPMORGAN CHASE & CO (0000019617) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-05-28T08:43:02-04:00",
     "historyCount": 1
   }
 ]
