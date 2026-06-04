@@ -1,227 +1,38 @@
 [
   {
     "symbol": "SEC",
-    "name": "N-23C3A - Invesco Senior Loan Fund (0000853180) (Filer)",
+    "name": "424B2 - CITIGROUP INC (0000831001) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T07:35:51-04:00",
+    "date": "2026-06-04T15:48:36-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "4 - Fujimura Eiji (0002122561) (Reporting)",
+    "name": "424B2 - Citigroup Global Markets Holdings Inc. (0000200245) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T07:33:13-04:00",
+    "date": "2026-06-04T15:48:36-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "4 - HONDA MOTOR CO LTD (0000715153) (Issuer)",
+    "name": "N-MFP3 - BlackRock Funds III (0000893818) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T07:33:13-04:00",
+    "date": "2026-06-04T15:48:29-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "6-K - Western Copper & Gold Corp (0001364125) (Filer)",
+    "name": "N-MFP3 - BlackRock Funds III (0000893818) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T07:31:07-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - Vivani Medical, Inc. (0001266806) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:30:48-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - CONMED Corp (0000816956) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:30:38-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - ABEONA THERAPEUTICS INC. (0000318306) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:30:38-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - BeyondSpring Inc. (0001677940) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:30:18-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "DEF 14A - Advanced Biomed Inc. (0001941029) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:30:11-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "144 - Levy Raphi (0001968095) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:28:05-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "144 - Alpha Tau Medical Ltd. (0001871321) (Subject)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:28:05-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "ABS-EE - CarMax Select Receivables Trust 2026-B (0002137261) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:24:42-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "ABS-EE - CARMAX AUTO FUNDING LLC (0001259380) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:24:42-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - Syndax Pharmaceuticals Inc (0001395937) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:16:36-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "6-K - Sangoma Technologies Corp (0001753368) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:15:12-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "6-K - Electra Battery Materials Corp (0001907184) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:15:05-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "4 - Chelouche Yoav (0001978611) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:12:12-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "4 - CHECK POINT SOFTWARE TECHNOLOGIES LTD (0001015922) (Issuer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:12:12-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "6-K - POWERBANK Corp (0002011053) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:10:22-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "6-K - Nu Holdings Ltd. (0001691493) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:09:30-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - FRACTYL HEALTH, INC. (0001572616) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:05:16-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - CIENA CORP (0000936395) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:05:06-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - PYXUS INTERNATIONAL, INC. (0000939930) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:04:43-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "F-3/A - Park Ha Biological Technology Co., Ltd. (0001986247) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:02:57-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "8-K - Atlantic Union Bankshares Corp (0000883948) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-04T07:00:54-04:00",
+    "date": "2026-06-04T15:48:28-04:00",
     "historyCount": 1
   },
   {
@@ -230,7 +41,7 @@
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T07:00:40-04:00",
+    "date": "2026-06-04T15:48:27-04:00",
     "historyCount": 1
   },
   {
@@ -239,124 +50,313 @@
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T07:00:40-04:00",
+    "date": "2026-06-04T15:48:27-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "8-K - ORION ENERGY SYSTEMS, INC. (0001409375) (Filer)",
+    "name": "N-MFP3 - XD Fund Trust (0001997375) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T07:00:34-04:00",
+    "date": "2026-06-04T15:48:18-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "8-K - BIG SKY INDUSTRIAL INC. (0000101594) (Filer)",
+    "name": "424B2 - Wells Fargo Finance LLC (0001738143) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T07:00:27-04:00",
+    "date": "2026-06-04T15:47:58-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "6-K - Click Holdings Ltd. (0002020027) (Filer)",
+    "name": "424B2 - WELLS FARGO & COMPANY/MN (0000072971) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T07:00:21-04:00",
+    "date": "2026-06-04T15:47:58-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "10-K - PYXUS INTERNATIONAL, INC. (0000939930) (Filer)",
+    "name": "424B2 - CITIGROUP INC (0000831001) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T07:00:17-04:00",
+    "date": "2026-06-04T15:47:44-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - JPMorgan Chase Financial Co. LLC (0001665650) (Subject)",
+    "name": "424B2 - Citigroup Global Markets Holdings Inc. (0000200245) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T06:58:10-04:00",
+    "date": "2026-06-04T15:47:44-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - JPMORGAN CHASE & CO (0000019617) (Subject)",
+    "name": "424B2 - GS Finance Corp. (0001419828) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T06:58:06-04:00",
+    "date": "2026-06-04T15:47:43-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - JPMorgan Chase Financial Co. LLC (0001665650) (Subject)",
+    "name": "424B2 - GOLDMAN SACHS GROUP INC (0000886982) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T06:57:11-04:00",
+    "date": "2026-06-04T15:47:43-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - JPMORGAN CHASE & CO (0000019617) (Subject)",
+    "name": "424B2 - GS Finance Corp. (0001419828) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T06:57:06-04:00",
+    "date": "2026-06-04T15:47:34-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "6-K - PRUDENTIAL PLC (0001116578) (Filer)",
+    "name": "424B2 - GOLDMAN SACHS GROUP INC (0000886982) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T06:56:01-04:00",
+    "date": "2026-06-04T15:47:34-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - JPMorgan Chase Financial Co. LLC (0001665650) (Subject)",
+    "name": "4 - Texas Pacific Land Corp (0001811074) (Issuer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T06:55:54-04:00",
+    "date": "2026-06-04T15:47:25-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - JPMORGAN CHASE & CO (0000019617) (Subject)",
+    "name": "424B2 - Wells Fargo Finance LLC (0001738143) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T06:55:50-04:00",
+    "date": "2026-06-04T15:47:25-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - JPMorgan Chase Financial Co. LLC (0001665650) (Subject)",
+    "name": "4 - HORIZON KINETICS ASSET MANAGEMENT LLC (0001056823) (Reporting)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T06:54:40-04:00",
+    "date": "2026-06-04T15:47:25-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - JPMORGAN CHASE & CO (0000019617) (Subject)",
+    "name": "424B2 - WELLS FARGO & COMPANY/MN (0000072971) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-04T06:54:35-04:00",
+    "date": "2026-06-04T15:47:25-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "D/A - SEI Structured Credit Fund, LP (0001458326) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:46:56-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "F-4/A - Spring Valley Acquisition Corp. III (0002074850) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:46:31-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "F-4/A - General Fusion Inc. (0001465369) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:46:31-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "N-MFP3 - Prudential Government Money Market Fund, Inc. (0000067590) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:46:30-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "MA-A - CRITO CAPITAL LLC (0001542278) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:46:23-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "DEFA14A - WW INTERNATIONAL, INC. (0000105319) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:45:29-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "8-K - Stonepeak-Plus Infrastructure Fund LP (0002045458) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:45:06-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B2 - UBS AG (0001114446) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:44:45-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "FWP - HSBC USA INC /MD/ (0000083246) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:44:19-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - COMPTON SEAN (0001789629) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:42:49-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - NEXSTAR MEDIA GROUP, INC. (0001142417) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:42:49-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "N-MFP3 - ADVANCED SERIES TRUST (0000814679) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:42:45-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B5 - CANADIAN IMPERIAL BANK OF COMMERCE /CAN/ (0001045520) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:42:11-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "N-MFP3 - PRUDENTIAL SERIES FUND (0000711175) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:41:37-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - Farrell John Hugh (0002120558) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:41:35-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - MAGNA INTERNATIONAL INC (0000749098) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:41:35-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B2 - Wells Fargo Finance LLC (0001738143) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:41:33-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B2 - WELLS FARGO & COMPANY/MN (0000072971) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:41:33-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Global Innovative Platforms Inc. (0001837774) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:40:56-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - BROWN DAVID A B (0001112508) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:40:56-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "424B2 - GS Finance Corp. (0001419828) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-04T15:40:10-04:00",
     "historyCount": 1
   }
 ]
