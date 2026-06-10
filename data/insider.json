@@ -1,110 +1,65 @@
 [
   {
     "symbol": "SEC",
-    "name": "424B2 - GS Finance Corp. (0001419828) (Filer)",
+    "name": "SC 14D9 - LISATA THERAPEUTICS, INC. (0000320017) (Subject)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:34:20-04:00",
+    "date": "2026-06-10T08:38:55-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - GOLDMAN SACHS GROUP INC (0000886982) (Filer)",
+    "name": "425 - Trump Media & Technology Group Corp. (0001849635) (Subject)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:34:20-04:00",
+    "date": "2026-06-10T08:38:12-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - JPMorgan Chase Financial Co. LLC (0001665650) (Filer)",
+    "name": "144 - Gallagher Kevin Charles (0001417351) (Reporting)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:34:11-04:00",
+    "date": "2026-06-10T08:38:10-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - JPMORGAN CHASE & CO (0000019617) (Filer)",
+    "name": "144 - UMB FINANCIAL CORP (0000101382) (Subject)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:34:11-04:00",
+    "date": "2026-06-10T08:38:10-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - BofA Finance LLC (0001682472) (Filer)",
+    "name": "6-K - Prenetics Global Ltd (0001876431) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:33:20-04:00",
+    "date": "2026-06-10T08:37:44-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - BANK OF AMERICA CORP /DE/ (0000070858) (Filer)",
+    "name": "8-K - Trump Media & Technology Group Corp. (0001849635) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:33:20-04:00",
+    "date": "2026-06-10T08:37:40-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - HSBC USA INC /MD/ (0000083246) (Subject)",
+    "name": "D - Varda - ODC Ventures Apr 2026 a Series of CGF2021 LLC (0002133317) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:33:16-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "3 - GMEX Robotics Corp (0001928581) (Issuer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-09T15:33:13-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "3 - HRT FINANCIAL LP (0001475597) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-09T15:33:13-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "N-CSRS - CANTOR SELECT PORTFOLIOS TRUST (0001903606) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-09T15:33:11-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "424B2 - GS Finance Corp. (0001419828) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-09T15:32:35-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "424B2 - GOLDMAN SACHS GROUP INC (0000886982) (Filer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-06-09T15:32:35-04:00",
+    "date": "2026-06-10T08:35:29-04:00",
     "historyCount": 1
   },
   {
@@ -113,7 +68,16 @@
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:32:06-04:00",
+    "date": "2026-06-10T08:35:15-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "8-K - Earth Science Tech, Inc. (0001538495) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-10T08:35:15-04:00",
     "historyCount": 1
   },
   {
@@ -122,241 +86,277 @@
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:32:06-04:00",
+    "date": "2026-06-10T08:35:15-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - BARCLAYS BANK PLC (0000312070) (Filer)",
+    "name": "144 - Macomber Todd (0001470085) (Reporting)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:31:31-04:00",
+    "date": "2026-06-10T08:33:19-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "8-A12B - GraniteShares ETF Trust (0001689873) (Filer)",
+    "name": "144 - RADIANT LOGISTICS, INC (0001171155) (Subject)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:31:21-04:00",
+    "date": "2026-06-10T08:33:19-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "SCHEDULE 13G/A - Sol-Gel Technologies Ltd. (0001684693) (Subject)",
+    "name": "6-K - CHUNGHWA TELECOM CO LTD (0001132924) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:31:03-04:00",
+    "date": "2026-06-10T08:32:59-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "SCHEDULE 13G/A - Phoenix Financial Ltd. (0001679543) (Filed by)",
+    "name": "D - Bluu Mar 2026 a Series of CGF2021 LLC (0002122361) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:31:03-04:00",
+    "date": "2026-06-10T08:31:37-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - BANK OF MONTREAL /CAN/ (0000927971) (Subject)",
+    "name": "N-CEN - FIRST TRUST EXCHANGE-TRADED FUND VI (0001552740) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:30:38-04:00",
+    "date": "2026-06-10T08:31:36-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "N-CSR - Pomona Investment Fund (0001616203) (Filer)",
+    "name": "8-K - CLOVER HEALTH INVESTMENTS, CORP. /DE (0001801170) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:30:28-04:00",
+    "date": "2026-06-10T08:31:00-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - BANK OF MONTREAL /CAN/ (0000927971) (Subject)",
+    "name": "8-K - Agassi Sports Entertainment Corp. (0000930245) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:29:41-04:00",
+    "date": "2026-06-10T08:30:43-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "SCHEDULE 13G - Phoenix Financial Ltd. (0001679543) (Filed by)",
+    "name": "8-K - La Rosa Holdings Corp. (0001879403) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:29:38-04:00",
+    "date": "2026-06-10T08:30:42-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "SCHEDULE 13G - TOWER SEMICONDUCTOR LTD (0000928876) (Subject)",
+    "name": "DEFA14A - AMBARELLA INC (0001280263) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:29:38-04:00",
+    "date": "2026-06-10T08:30:25-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - BANK OF MONTREAL /CAN/ (0000927971) (Subject)",
+    "name": "S-3ASR - ADVANCED ENERGY INDUSTRIES INC (0000927003) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:29:28-04:00",
+    "date": "2026-06-10T08:30:19-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - GS Finance Corp. (0001419828) (Filer)",
+    "name": "8-K - AI Financial Corp (0000862861) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:29:22-04:00",
+    "date": "2026-06-10T08:30:15-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - GOLDMAN SACHS GROUP INC (0000886982) (Filer)",
+    "name": "6-K - SMX (Security Matters) Public Ltd Co (0001940674) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:29:22-04:00",
+    "date": "2026-06-10T08:30:01-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - BARCLAYS BANK PLC (0000312070) (Filer)",
+    "name": "497 - Equitable Financial Life Insurance Co (RILA) (0002039145) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:29:04-04:00",
+    "date": "2026-06-10T08:29:32-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "4 - Mascolo Elizabeth (0002060847) (Reporting)",
+    "name": "6-K - VinFast Auto Ltd. (0001913510) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:28:34-04:00",
+    "date": "2026-06-10T08:29:14-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - TORONTO DOMINION BANK (0000947263) (Filer)",
+    "name": "D - NJD Strategic Advisors HH Holding LLC (0002139856) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:28:34-04:00",
+    "date": "2026-06-10T08:29:09-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "4 - GENERAL MILLS INC (0000040704) (Issuer)",
+    "name": "497 - SEPARATE ACCOUNT NO. 49 (0001015570) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:28:34-04:00",
+    "date": "2026-06-10T08:28:25-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "144 - Kang Andrew (0001825170) (Reporting)",
+    "name": "D - Bluewatch V a Series of CGF2021 LLC (0002138660) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:27:58-04:00",
+    "date": "2026-06-10T08:27:55-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "144 - Strategy Inc (0001050446) (Subject)",
+    "name": "424B3 - Fold Holdings, Inc. (0001889123) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:27:58-04:00",
+    "date": "2026-06-10T08:27:13-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - BANK OF MONTREAL /CAN/ (0000927971) (Subject)",
+    "name": "8-K - Blue Acquisition Corp/Cayman (0002059654) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:27:22-04:00",
+    "date": "2026-06-10T08:25:29-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - BANK OF MONTREAL /CAN/ (0000927971) (Subject)",
+    "name": "8-K - Fold Holdings, Inc. (0001889123) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:27:20-04:00",
+    "date": "2026-06-10T08:25:15-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "4 - Gomes Tarciana Paula (0002120997) (Reporting)",
+    "name": "D - Sandbox Studios Hawthorne Apr 2026 a Series of CGF2021 LLC (0002133345) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:26:57-04:00",
+    "date": "2026-06-10T08:23:26-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "4 - FOREIGN TRADE BANK OF LATIN AMERICA, INC. (0000890541) (Issuer)",
+    "name": "6-K - PETROBRAS - PETROLEO BRASILEIRO SA (0001119639) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:26:57-04:00",
+    "date": "2026-06-10T08:22:57-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "144 - Ervin Patrick J (0001725163) (Reporting)",
+    "name": "D - Storage4Community, LLC (0001943149) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:26:53-04:00",
+    "date": "2026-06-10T08:21:48-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "144 - INDEPENDENT BANK CORP /MI/ (0000039311) (Subject)",
+    "name": "485BXT - Tidal Trust II (0001924868) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:26:53-04:00",
+    "date": "2026-06-10T08:21:45-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "FWP - BANK OF MONTREAL /CAN/ (0000927971) (Subject)",
+    "name": "485BXT - Tidal Trust II (0001924868) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:26:39-04:00",
+    "date": "2026-06-10T08:21:45-04:00",
     "historyCount": 1
   },
   {
     "symbol": "SEC",
-    "name": "424B2 - BofA Finance LLC (0001682472) (Filer)",
+    "name": "8-K - TransparentBusiness, Inc. (0001740742) (Filer)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
     "totalValue": 1000,
-    "date": "2026-06-09T15:25:39-04:00",
+    "date": "2026-06-10T08:21:40-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "D - Delphi Interactive a Series of CGF2021 LLC (0002134635) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-10T08:20:23-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "485BXT - Tidal Trust II (0001924868) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-10T08:17:18-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "485BXT - Tidal Trust II (0001924868) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-10T08:17:18-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "D - Fund Phi a Series of Legion VC Collective LLC (0002138165) (Filer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-06-10T08:17:02-04:00",
     "historyCount": 1
   }
 ]
