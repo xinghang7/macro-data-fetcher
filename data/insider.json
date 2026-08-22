@@ -1,6 +1,168 @@
 [
   {
     "symbol": "SEC",
+    "name": "144 - Blunden Julia (0001918769) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:59:23-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "144 - Nextpower Inc. (0001852131) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:59:23-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "SCHEDULE 13D - Air Water Ventures Ltd (0002092314) (Subject)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:44:20-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "SCHEDULE 13D - Inflection Point Asset Management LLC (0002062185) (Filed by)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:44:20-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - SHAN LAO HU TONG LLC (0002004307) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:44:01-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - JI XIANG HU TONG HOLDINGS LTD (0002004302) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:44:01-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Wu Lei (0001962329) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:44:01-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - GigaCloud Technology Inc (0001857816) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:44:01-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - GoodRx Holdings, Inc. (0001809519) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:38:40-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Francisco Partners GP IV, L.P. (0001674067) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:38:40-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Francisco Partners GP IV Management Ltd (0001673966) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:38:40-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - FRANCISCO PARTNERS IV-A, L.P. (0001622908) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:38:40-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - FRANCISCO PARTNERS IV, L.P. (0001622902) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:38:40-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Francisco Partners Management, LP (0001197853) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:38:40-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Cheng Marvin (0001790959) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:35:00-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - Karat Packaging Inc. (0001758021) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:35:00-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - McKechnie Mark (0001775007) (Reporting)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:30:20-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
+    "name": "4 - ACM Research, Inc. (0001680062) (Issuer)",
+    "title": "\u7533\u62a5\u6587\u4ef6",
+    "action": "Disclosure",
+    "totalValue": 1000,
+    "date": "2026-08-21T21:30:20-04:00",
+    "historyCount": 1
+  },
+  {
+    "symbol": "SEC",
     "name": "4 - McDonough Claire (0001890925) (Reporting)",
     "title": "\u7533\u62a5\u6587\u4ef6",
     "action": "Disclosure",
@@ -195,168 +357,6 @@
     "action": "Disclosure",
     "totalValue": 1000,
     "date": "2026-08-21T20:57:53-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "SCHEDULE 13D/A - Pelham Miles Christian (0002050408) (Filed by)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:57:24-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "SCHEDULE 13D/A - Diginex Ltd (0002010499) (Subject)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:57:24-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "3 - Shen Man Ching (0002143143) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:57:14-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "3 - Tactical Resources Corp. (0002041208) (Issuer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:57:14-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "3 - Clark James Garry (0002140857) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:56:28-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "3 - Tactical Resources Corp. (0002041208) (Issuer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:56:28-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "144 - Robertson Stephen P. (0001837798) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:54:35-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "144 - Aurinia Pharmaceuticals Inc. (0001600620) (Subject)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:54:35-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "4 - Lumentum Holdings Inc. (0001633978) (Issuer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:43:53-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "4 - Wupen Yuen (0001489550) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:43:53-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "4 - Retort Vincent (0001648256) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:42:26-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "4 - Lumentum Holdings Inc. (0001633978) (Issuer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:42:26-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "4 - Watson Noel Bertram (0001669081) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:41:47-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "4 - LEGALZOOM.COM, INC. (0001286139) (Issuer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:41:47-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "4 - Lumentum Holdings Inc. (0001633978) (Issuer)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:41:11-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "4 - Kim Jae (0001570465) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:41:11-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "144 - Hohenleitner Susan (0002093095) (Reporting)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:40:13-04:00",
-    "historyCount": 1
-  },
-  {
-    "symbol": "SEC",
-    "name": "144 - ARDELYX, INC. (0001437402) (Subject)",
-    "title": "\u7533\u62a5\u6587\u4ef6",
-    "action": "Disclosure",
-    "totalValue": 1000,
-    "date": "2026-08-21T20:40:13-04:00",
     "historyCount": 1
   }
 ]
